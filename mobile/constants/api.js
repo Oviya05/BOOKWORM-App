@@ -1,1 +1,1 @@
-export const API_URL = "http://10.245.177.59:3000/api";
+export const API_URL = "https://bookworm-appbackend.onrender.com/api";
