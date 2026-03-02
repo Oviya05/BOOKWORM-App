@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "mobile",
-    "slug": "mobile",
+    "slug": "bookworm",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +43,7 @@
       "eas": {
         "projectId": "83c385a8-69fa-42cb-84f1-0fd6f8fb90b9"
       }
-    }
+    },
+    "owner": "oviyamurugesan"
   }
 }
